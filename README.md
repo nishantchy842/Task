@@ -25,3 +25,8 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+![screenshot (1)](https://github.com/nishantchy842/Task/assets/117557072/6e9614bf-f482-476f-a828-9f7a9431c14a)
+
+
+
+
